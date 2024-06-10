@@ -63,7 +63,7 @@ const About = () => {
                 <li><p className='font-medium my-4 text-justify tracking-tight dark:text-ccl-Whitish'>I believe, Games have the ability to bring people together, regardless of age, culture, or background. </p></li>
                 
                 <li><p className='font-medium text-justify tracking-tight dark:text-ccl-Whitish'>Whether it is a game, a logo, or any other digital project, I bring my commitment to design excellence and player centered thinking to each one of my works.
-                I Look forward to the opportunity to use my skills and passion in our next project together. Let's 
+                I Look forward to the opportunity to use my skills and passion in our next project together. Lets 
                 connect and explore the wonderful world of games and design, Shall we?</p></li>
                 </ul>
               </div> 
