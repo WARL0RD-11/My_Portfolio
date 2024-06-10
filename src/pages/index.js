@@ -34,7 +34,7 @@ export default function Home() {
                 curated collection of my passion, creativity,and expertise. 
                 Explore the intersection of innovation and design as you journey through my portfolio.</p>
               <div className='flex items-center self-start mt-2 lg:self-center'> 
-                <Link href="/dummy.pdf" target={"_blank"}
+                <Link href="/Nishant_Verma_PF_RESUME.pdf" target={"_blank"}
                 className="flex items-center bg-black text-ccl-light dark:text-ccl-dark dark:bg-ccl-light
                  p-2.5 px-6 rounded-lg text-lg font-semibold  hover:bg-ccl-light duration-300
                  hover:text-ccl-dark border-2 border-transparent hover:border-ccl-dark hover:dark:bg-ccl-dark hover:dark:text-ccl-Whitish 
